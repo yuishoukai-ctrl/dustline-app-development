@@ -8,6 +8,14 @@ This folder is a static GitHub Pages site for the DUSTLINE app development divis
 
 The root domain `https://dustline.jp/` should remain the magazine / sales website.
 
+## App content endpoints
+
+- `https://apps.dustline.jp/content/articles.json`
+- `https://apps.dustline.jp/content/events.json`
+- `https://apps.dustline.jp/content/paint-prices.json`
+
+The app keeps a bundled fallback and a validated device cache for each document.
+
 ## GitHub Pages Setup
 
 1. Create a GitHub repository, for example `dustline-app-development`.
