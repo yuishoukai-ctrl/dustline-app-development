@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-07-28T00:00:00+09:00",
+  "items": [
+    {
+      "id": "mongolia-tour-2027-2028",
+      "slug": "dustline-mongolia-tour",
+      "title_ja": "DUST LINE モンゴルツーリング",
+      "title_en": "DUST LINE MONGOLIA TOUR",
+      "summary_ja": "地平線まで続く広大な草原を、現地レンタルバイクで走る10日間のツーリング企画です。",
+      "status": "preparing",
+      "status_label_ja": "準備中",
+      "period_text_ja": "2027〜2028年にて準備中",
+      "start_at": null,
+      "end_at": null,
+      "duration_days": 10,
+      "location_text_ja": "モンゴル",
+      "cost_text_ja": "1人あたり20万〜30万円（予定）",
+      "capacity_text_ja": "未定",
+      "vehicle_text_ja": "セロー250など（現地レンタル予定）",
+      "details_ja": [
+        "現地バイクレンタルを手配予定",
+        "宿泊先を手配予定",
+        "現地を詳しく知る旅行代理店と協力して準備中"
+      ],
+      "hero_asset": null,
+      "hero_alt_ja": "モンゴルの広大な草原を走るアドベンチャーバイク",
+      "external_url": null,
+      "notify_enabled": false,
+      "published_at": "2026-07-28T00:00:00+09:00",
+      "sort_order": 10,
+      "active": true
+    }
+  ]
+}
