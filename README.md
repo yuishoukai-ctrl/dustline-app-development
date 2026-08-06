@@ -8,6 +8,12 @@ This folder is a static GitHub Pages site for the DUSTLINE app development divis
 
 The root domain `https://dustline.jp/` should remain the magazine / sales website.
 
+Public compliance pages:
+
+- Contact and operator information: `https://apps.dustline.jp/contact/`
+- Privacy policy: `https://apps.dustline.jp/privacy/`
+- Account deletion: `https://apps.dustline.jp/account-deletion/`
+
 ## App content endpoints
 
 - `https://apps.dustline.jp/content/articles.json`
