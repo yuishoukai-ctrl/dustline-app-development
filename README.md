@@ -12,6 +12,8 @@ Public compliance pages:
 
 - Contact and operator information: `https://apps.dustline.jp/contact/`
 - Privacy policy: `https://apps.dustline.jp/privacy/`
+- HomeLedger product and support: `https://apps.dustline.jp/homeledger/`
+- HomeLedger privacy section: `https://apps.dustline.jp/privacy/#homeledger`
 - Account deletion: `https://apps.dustline.jp/account-deletion/`
 
 ## App content endpoints

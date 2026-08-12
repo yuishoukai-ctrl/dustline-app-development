@@ -345,6 +345,68 @@ dd a,
   margin-top: 34px;
 }
 
+.featured-app {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(210px, 0.34fr);
+  gap: clamp(24px, 5vw, 58px);
+  align-items: center;
+  margin-top: 34px;
+  padding: clamp(24px, 4vw, 42px);
+  background: linear-gradient(135deg, #102030, #183e45);
+  color: #fff;
+  border-radius: 8px;
+}
+
+.featured-app h3 {
+  color: #fff;
+  font-size: clamp(1.35rem, 3vw, 2.15rem);
+  line-height: 1.35;
+}
+
+.featured-app p {
+  color: rgba(255, 255, 255, 0.76);
+}
+
+.app-kicker {
+  margin: 0 0 12px !important;
+  color: #8fd7c2 !important;
+  font-size: 0.78rem !important;
+  font-weight: 760;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.featured-app-actions {
+  display: grid;
+  gap: 14px;
+  justify-items: start;
+}
+
+.featured-app-actions > a:not(.button) {
+  color: #fff;
+  font-weight: 720;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.status-badge {
+  display: inline-flex;
+  padding: 8px 10px;
+  background: #dff5ec;
+  color: #124f40;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 780;
+}
+
+.app-categories-label {
+  margin-top: 68px;
+}
+
+.app-categories-title {
+  max-width: 880px;
+}
+
 .cards article {
   min-height: 190px;
   padding: 22px;
@@ -596,6 +658,10 @@ footer {
   }
 
   .cards {
+    grid-template-columns: 1fr;
+  }
+
+  .featured-app {
     grid-template-columns: 1fr;
   }
 
