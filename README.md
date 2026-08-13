@@ -14,6 +14,8 @@ Public compliance pages:
 - Privacy policy: `https://apps.dustline.jp/privacy/`
 - HomeLedger product and support: `https://apps.dustline.jp/homeledger/`
 - HomeLedger privacy section: `https://apps.dustline.jp/privacy/#homeledger`
+- App-specific privacy index (English): `https://apps.dustline.jp/en/privacy/`
+- App-specific privacy index (Japanese): `https://apps.dustline.jp/ja/privacy/`
 - Account deletion: `https://apps.dustline.jp/account-deletion/`
 
 ## App content endpoints
